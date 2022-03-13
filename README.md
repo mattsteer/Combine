@@ -4,7 +4,7 @@ Author: @mattsteer - matt@shadesecurity.com
 
 I was once a simple farmer, then i got power tools!
 
-Props: @dmchell, @rmortega77 
+Props: @domchell, @rmortega77 
 ```
 Combine.exe [options]
 
